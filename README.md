@@ -6,7 +6,7 @@
 
 [Endless procedural image generation (Version 2 - Inconsistent generation by XZ coordinates as the camera moves) | Babylon.js Playground](https://playground.babylonjs.com/#VFZH73#0)
 
-[Endless procedurally generated maps (Version 3 - When you move the camera, the map is updated to a new random map) | Babylon.js Playground](https://playground.babylonjs.com/#6NWVN6#0)
+[Endless procedural image generation (Version 3 - generated identical images by chunks in XZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#V25B02#0)
 
 [Endless procedural image generation (Version 4 - General's version within LOD with deletion of previous chunks) | Babylon.js Playground](https://playground.babylonjs.com/#E1CW8N#0)
 
