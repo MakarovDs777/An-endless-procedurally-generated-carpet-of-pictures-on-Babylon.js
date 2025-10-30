@@ -16,6 +16,8 @@
 
 [Endless procedural image generation (Version 3 - generated identical images by chunks in XZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#V25B02#0)
 
+Что и предыдущий код только LOD ограниченный, и при перемещение камеры не остается след из чанков картинок.
+
 [Endless procedural image generation (Version 4 - General's version within LOD with deletion of previous chunks) | Babylon.js Playground](https://playground.babylonjs.com/#E1CW8N#0)
 
 [Endless procedural image generation (Version 5 - Generating different sets of images in different chunks) | Babylon.js Playground](https://playground.babylonjs.com/#QOPFOQ#0)
