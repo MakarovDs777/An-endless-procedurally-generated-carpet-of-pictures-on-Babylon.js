@@ -1,6 +1,6 @@
 # An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js
 
-В нулевой версии я сделал бесконечную процедурную генерацию картинок по мере движения камеры в обе стороны -x, и +x
+В нулевой версии я сделал бесконечную процедурную генерацию картинок по мере движения камеры в обе стороны -x, и +x в одну полоску.
 
 [Endless procedural image generation (Version 0 - Procedural generation of different pictures along the line) | Babylon.js Playground](https://playground.babylonjs.com/#X5N63U#0)
 
