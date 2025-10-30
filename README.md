@@ -4,11 +4,15 @@
 
 [Endless procedural image generation (Version 0 - Procedural generation of different pictures along the line) | Babylon.js Playground](https://playground.babylonjs.com/#X5N63U#0)
 
-В первой версии я сделал генерацию по XZ бесконечно процедурно генерируемый ковер из набора выбираются случайные картинки все картинки одинакового размера.
+В первой версии я сделал генерацию по XZ бесконечно процедурно генерируемый ковер из набора выбираются случайные картинки все картинки одинакового размера тык впритык к друг другу.
 
 [Endless procedural image generation (Version 1 - procedural generation of different images based on XZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#DXNVN1#0)
 
+Во второй версим я сделал процедурно генерируемого XZ ковера картинок неравномерной.
+
 [Endless procedural image generation (Version 2 - Inconsistent generation by XZ coordinates as the camera moves) | Babylon.js Playground](https://playground.babylonjs.com/#VFZH73#0)
+
+В третей версии есть биомы с наборами из одинаковых картинок, и бесконечно процедурно генерирумый ковер XZ где изображения тык в притык к друг другу одинакового размера. 
 
 [Endless procedural image generation (Version 3 - generated identical images by chunks in XZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#V25B02#0)
 
