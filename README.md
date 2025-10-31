@@ -20,7 +20,11 @@
 
 [Endless procedural image generation (Version 4 - General's version within LOD with deletion of previous chunks) | Babylon.js Playground](https://playground.babylonjs.com/#E1CW8N#0)
 
+
+
 [Endless procedural image generation (Version 5 - Generating different sets of images in different chunks) | Babylon.js Playground](https://playground.babylonjs.com/#QOPFOQ#0)
+
+Изображения разного размера генерируются друг от друга с пустотой между собой.
 
 [Endless procedural image generation (Version 6 - Generating different image sizes sets of images in different chunks) | Babylon.js Playground](https://playground.babylonjs.com/#TPVCEB#0)
 
