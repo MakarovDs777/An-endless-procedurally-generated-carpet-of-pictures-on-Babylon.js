@@ -20,7 +20,7 @@
 
 [Endless procedural image generation (Version 4 - General's version within LOD with deletion of previous chunks) | Babylon.js Playground](https://playground.babylonjs.com/#E1CW8N#0)
 
-
+Изображения одинаквоого размера генерируются впритык друг к другу но когда я перемещаю камеру предыдущий чанки с картинками не удаляются а остаются.
 
 [Endless procedural image generation (Version 5 - Generating different sets of images in different chunks) | Babylon.js Playground](https://playground.babylonjs.com/#QOPFOQ#0)
 
