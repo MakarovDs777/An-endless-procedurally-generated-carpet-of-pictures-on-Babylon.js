@@ -26,9 +26,11 @@
 
 [Endless procedural image generation (Version 7 - A version with sets of different images in a line of X with different) | Babylon.js Playground](https://playground.babylonjs.com/#WDUTHR#0)
 
+Отлично теперь в разных биомах разные картинки разного размера тык в притык друг другу.
+
 [Endless procedural image generation (Version 8 - A version with different sets of tiles of different image sizes) | Babylon.js Playground](https://playground.babylonjs.com/#T8774W#0)
 
-И наконец в финальной версии в разных биомах разные картинки разного размера тык в притык друг другу.
+И наконец в финальной версии в разных биомах разные картинки разного размера тык в притык друг другу но при возвращение камеры в предыдущий чанк картинки те же генерируются по сиду.
 
 [Endless procedural image generation (version 9 - Version with different sets of tiles of different sizes with SEED) | Babylon.js Playground](https://playground.babylonjs.com/#NLB4PI#0)
 
