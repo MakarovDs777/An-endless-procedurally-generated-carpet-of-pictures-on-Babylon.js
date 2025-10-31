@@ -24,6 +24,8 @@
 
 [Endless procedural image generation (Version 6 - Generating different image sizes sets of images in different chunks) | Babylon.js Playground](https://playground.babylonjs.com/#TPVCEB#0)
 
+В этой версии картинки генерируются в одной полоске тык в притык друг друга но они разного размера.
+
 [Endless procedural image generation (Version 7 - A version with sets of different images in a line of X with different) | Babylon.js Playground](https://playground.babylonjs.com/#WDUTHR#0)
 
 Отлично теперь в разных биомах разные картинки разного размера тык в притык друг другу.
