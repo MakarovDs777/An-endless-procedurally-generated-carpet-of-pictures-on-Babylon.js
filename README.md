@@ -28,6 +28,8 @@
 
 [Endless procedural image generation (Version 8 - A version with different sets of tiles of different image sizes) | Babylon.js Playground](https://playground.babylonjs.com/#T8774W#0)
 
+И наконец в финальной версии в разных биомах разные картинки разного размера тык в притык друг другу.
+
 [Endless procedural image generation (version 9 - Version with different sets of tiles of different sizes with SEED) | Babylon.js Playground](https://playground.babylonjs.com/#NLB4PI#0)
 
 [Endless procedural image generation (version 10 - With random overlapping of different images in the same plane) | Babylon.js Playground](https://playground.babylonjs.com/#N2PZTX#1)
