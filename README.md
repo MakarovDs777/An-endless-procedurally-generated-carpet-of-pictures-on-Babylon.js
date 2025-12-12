@@ -40,6 +40,10 @@
 
 [Endless procedural image generation (version 9 - Version with different sets of tiles of different sizes with SEED) | Babylon.js Playground](https://playground.babylonjs.com/#NLB4PI#0)
 
-Теперь мне нужно на одной плсокости генерировать множество разных картинок друг на друга в случайном месте.
+Теперь мне нужно на одной плосокости генерировать множество разных картинок друг на друга в случайном месте.
 
 [Endless procedural image generation (version 10 - With random overlapping of different images in the same plane) | Babylon.js Playground](https://playground.babylonjs.com/#N2PZTX#1)
+
+Теперь нужно сделать бесконченый процедурно генерируемый ковёр с случайными картинками на этом ковре. 
+
+[Endless procedural image generation (version 11 - Endless carpet with random pictures) | Babylon.js Playground](https://playground.babylonjs.com/#L7JZJ5)
