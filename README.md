@@ -47,3 +47,8 @@
 Теперь нужно сделать бесконченый процедурно генерируемый ковёр с случайными картинками на этом ковре. 
 
 [Endless procedural image generation (version 11 - Endless carpet with random pictures) | Babylon.js Playground](https://playground.babylonjs.com/#L7JZJ5)
+
+Ну всё теперь осталось лишь сделать заранее установленную генерацию картинок.
+
+[Endless procedural image generation (version 12 - Endless carpet with random pictures preset generation) | Babylon.js Playground](https://playground.babylonjs.com/#PR1SRI)
+
