@@ -55,3 +55,7 @@
 Тоже что, и предыдущая но без случайного поворота картинок.
 
 [Endless procedural image generation (version 13 - Endless random pictures preset generation without rotating the images) | Babylon.js Playground](https://playground.babylonjs.com/#QCNCCH)
+
+Теперь спресуем генерацию изображений друг к другу.
+
+[Endless procedural image generation (version 14 - Endless carpet of random images in a solid format) | Babylon.js Playground](https://playground.babylonjs.com/#JYDQ4W)
