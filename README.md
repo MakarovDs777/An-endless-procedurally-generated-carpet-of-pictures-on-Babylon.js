@@ -52,3 +52,6 @@
 
 [Endless procedural image generation (version 12 - Endless carpet with random pictures preset generation) | Babylon.js Playground](https://playground.babylonjs.com/#PR1SRI)
 
+Тоже что, и предыдущая но без случайного поворота картинок.
+
+[Endless procedural image generation (version 13 - Endless random pictures preset generation without rotating the images) | Babylon.js Playground](https://playground.babylonjs.com/#QCNCCH)
