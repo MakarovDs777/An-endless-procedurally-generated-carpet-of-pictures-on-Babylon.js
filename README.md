@@ -59,3 +59,12 @@
 Теперь спресуем генерацию изображений друг к другу.
 
 [Endless procedural image generation (version 14 - Endless carpet of random images in a solid format) | Babylon.js Playground](https://playground.babylonjs.com/#JYDQ4W)
+
+Ну и для пущей эффектности сделаем генерацию не из набора заранее заданых случайных картинок а вообще случайная картинка из множества случайных картинок за основу взят сайт Lorem Picsum но предупреждаю сайт иногда не работает.
+
+[Endless procedural image generation (version 15 - Endless carpet of random Lorem Picsum images in a solid format)](https://playground.babylonjs.com/#3DWRMK#0)
+
+Но мне хотелось бы телепортироваться куда нибудь далеко что-бы найти что-то действительно стоящие.
+
+[Endless procedural image generation (version 16-Endless carpet of random Lorem Picsum images in a solid format+teleport) | Babylon.js Playground](https://playground.babylonjs.com/#VFX2G0)
+
