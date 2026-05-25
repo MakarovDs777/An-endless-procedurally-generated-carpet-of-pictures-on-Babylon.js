@@ -72,6 +72,6 @@
 
 [Endless procedural image generation (version 17 - An endless generated carpet of images from a set of providers) | Babylon.js Playground](https://playground.babylonjs.com/#5JGTZX)
 
-Короче нахер, и провайдер, и Lorem Picsum нужно сделать из массива чисел картинку по три числа RGB.
+Короче нахер, и провайдер, и Lorem Picsum нужно сделать из массива чисел картинку по три числа RGB то есть тупо вшить в сам скелет картинку.
 
 [Endless procedural image generation (version 18 - An endless generated carpet of image but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#XO390P#1)
