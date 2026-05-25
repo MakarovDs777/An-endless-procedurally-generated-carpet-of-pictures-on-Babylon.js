@@ -68,6 +68,10 @@
 
 [Endless procedural image generation (version 16-Endless carpet of random Lorem Picsum images in a solid format+teleport) | Babylon.js Playground](https://playground.babylonjs.com/#VFX2G0)
 
-Короче Lorem Picsum говно нужно сделать картинки из набора провайдеров для случайных картинок.
+Короче Lorem Picsum говно постоянно не работет нужно сделать картинки из набора провайдеров для случайных картинок.
 
 [Endless procedural image generation (version 17 - An endless generated carpet of images from a set of providers) | Babylon.js Playground](https://playground.babylonjs.com/#5JGTZX)
+
+Короче нахер, и провайдер, и Lorem Picsum нужно сделать из массива чисел картинку по три числа RGB.
+
+[Endless procedural image generation (version 18 - An endless generated carpet of image but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#XO390P#1)
