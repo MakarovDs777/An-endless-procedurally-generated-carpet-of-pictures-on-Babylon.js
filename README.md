@@ -75,3 +75,7 @@
 Короче нахер, и провайдер, и Lorem Picsum нужно сделать из массива чисел картинку по три числа RGB то есть тупо вшить в сам скелет картинку.
 
 [Endless procedural image generation (version 18 - An endless generated carpet of image but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#XO390P#2)
+
+Теперь сделаем множество картинок а не одну.
+
+[Endless procedural image generation (version 19 - An endless generated carpet of image but multiply procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#LZYWEI)
