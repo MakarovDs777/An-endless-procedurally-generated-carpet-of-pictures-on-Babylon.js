@@ -83,3 +83,7 @@
 Тоже самое что, и 12 версия только с процедурной генерацией картинки.
 
 [Endless procedural image generation(version 20-Endless carpet with random images preset generation but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#ARY9ZD)
+
+Отлично но мне нужно рещить проблему обрезки картинок при генерации близь границ чанков.
+
+[Endless procedural image generation (version 21 - An endless carpet of RGB array image without cutting chunks) | Babylon.js Playground](https://playground.babylonjs.com/#AFE40F)
