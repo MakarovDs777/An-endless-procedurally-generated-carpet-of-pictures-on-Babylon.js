@@ -79,3 +79,7 @@
 Теперь сделаем множество картинок а не одну.
 
 [Endless procedural image generation (version 19 - An endless generated carpet of image but multiply procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#LZYWEI)
+
+Тоже самое что, и 12 версия только с процедурной генерацией картинки.
+
+[Endless procedural image generation(version 20-Endless carpet with random images preset generation but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#ARY9ZD)
