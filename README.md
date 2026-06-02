@@ -80,10 +80,14 @@
 
 [Endless procedural image generation (version 19 - An endless generated carpet of image but multiply procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#LZYWEI)
 
-Тоже самое что, и 12 версия только с процедурной генерацией картинки.
+Тоже самое что, и 12 версия только с процедурной генерацией картинки случайно повернутойна 360 градусов.
 
 [Endless procedural image generation(version 20-Endless carpet with random images preset generation but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#ARY9ZD)
 
-Отлично но мне нужно рещить проблему обрезки картинок при генерации близь границ чанков.
+Отлично но мне нужно решить проблему обрезки картинок при генерации близь границ чанков.
 
 [Endless procedural image generation (version 21 - An endless carpet of RGB array image without cutting chunks) | Babylon.js Playground](https://playground.babylonjs.com/#AFE40F)
+
+Теперь нужнро сделать так что-бы было множество разных картинок где для каждой картинки разная опциональная ширина, и высота.
+
+[Endless procedural image generation (version 22 - An endless carpet of RGB array multuply images without cutting chunks) | Babylon.js Playground](https://playground.babylonjs.com/#P6QF1O)
