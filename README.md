@@ -88,6 +88,6 @@
 
 [Endless procedural image generation (version 21 - An endless carpet of RGB array image without cutting chunks) | Babylon.js Playground](https://playground.babylonjs.com/#AFE40F)
 
-Теперь нужнро сделать так что-бы было множество разных картинок где для каждой картинки разная опциональная ширина, и высота.
+Теперь нужно сделать так что-бы было множество разных картинок где для каждой картинки разная опциональная ширина, и высота.
 
 [Endless procedural image generation (version 22 - An endless carpet of RGB array multuply images without cutting chunks) | Babylon.js Playground](https://playground.babylonjs.com/#P6QF1O)
