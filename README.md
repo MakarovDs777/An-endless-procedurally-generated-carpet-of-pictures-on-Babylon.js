@@ -94,4 +94,4 @@
 
 Но вбивание картинок в сам скелете тоже плохая идея потому что либо приходится урезать качество картинки, либо количество картинок а мне не нужно ни то, ни другое и остается только один единственный последений вариант это процедурно сгенерировать картинки.
 
-[Endless procedural image generation (version 23 - An endless carpet of RLE-Lents images) | Babylon.js Playground](https://playground.babylonjs.com/#7EY7K3)
+[Endless procedural image generation (version 23 - An endless carpet of RLE-Lents images) | Babylon.js Playground](https://playground.babylonjs.com/#7EY7K3#1)
