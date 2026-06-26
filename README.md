@@ -91,3 +91,7 @@
 Теперь нужно сделать так что-бы было множество разных картинок где для каждой картинки разная опциональная ширина, и высота.
 
 [Endless procedural image generation (version 22 - An endless carpet of RGB array multuply images without cutting chunks) | Babylon.js Playground](https://playground.babylonjs.com/#P6QF1O)
+
+Но вбивание картинок в сам скелете тоже плохая идея потому что либо приходится урезать качество, либо количество а мне не нужно ни то ни другое и остается только один последений вариант это процедурно сгенерировать картинку.
+
+[Endless procedural image generation (version 23 - An endless carpet of RLE-Lents images) | Babylon.js Playground](https://playground.babylonjs.com/#7EY7K3)
