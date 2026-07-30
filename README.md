@@ -44,7 +44,7 @@
 
 [Endless procedural image generation (version 10 - With random overlapping of different images in the same plane) | Babylon.js Playground](https://playground.babylonjs.com/#N2PZTX#1)
 
-Теперь нужно сделать бесконченый процедурно генерируемый ковёр с случайными картинками на этом ковре. 
+Теперь нужно сделать бесконечный процедурно генерируемый ковёр с случайными картинками на этом ковре. 
 
 [Endless procedural image generation (version 11 - Endless carpet with random pictures) | Babylon.js Playground](https://playground.babylonjs.com/#L7JZJ5)
 
@@ -56,11 +56,11 @@
 
 [Endless procedural image generation (version 13 - Endless random pictures preset generation without rotating the images) | Babylon.js Playground](https://playground.babylonjs.com/#QCNCCH)
 
-Теперь спресуем генерацию изображений друг к другу.
+Теперь спрессуем генерацию изображений друг к другу.
 
 [Endless procedural image generation (version 14 - Endless carpet of random images in a solid format) | Babylon.js Playground](https://playground.babylonjs.com/#JYDQ4W)
 
-Ну и для пущей эффектности сделаем генерацию не из набора заранее заданых случайных картинок а вообще случайная картинка из множества случайных картинок за основу взят сайт Lorem Picsum но предупреждаю сайт иногда не работает.
+Ну и для пущей эффектности сделаем генерацию не из набора заранее заданных случайных картинок а вообще случайная картинка из множества случайных картинок за основу взят сайт Lorem Picsum но предупреждаю сайт иногда не работает.
 
 [Endless procedural image generation (version 15 - Endless carpet of random Lorem Picsum images in a solid format)](https://playground.babylonjs.com/#3DWRMK#0)
 
@@ -68,11 +68,11 @@
 
 [Endless procedural image generation (version 16-Endless carpet of random Lorem Picsum images in a solid format+teleport) | Babylon.js Playground](https://playground.babylonjs.com/#VFX2G0)
 
-Короче Lorem Picsum говно постоянно не работет нужно сделать картинки из набора провайдеров для случайных картинок.
+Короче Lorem Picsum говно постоянно не работает нужно сделать картинки из набора провайдеров для случайных картинок.
 
 [Endless procedural image generation (version 17 - An endless generated carpet of images from a set of providers) | Babylon.js Playground](https://playground.babylonjs.com/#5JGTZX)
 
-Короче нахер, и провайдеры, и Lorem Picsum, и хостинги картинок нужно сделать из массива чисел картинку по три числа RGB то есть тупо вбить молтком в сам скелет кода картинку.
+Короче нахер, и провайдеры, и Lorem Picsum, и хостинги картинок нужно сделать из массива чисел картинку по три числа RGB то есть тупо вбить молотком в сам скелет кода картинку.
 
 [Endless procedural image generation (version 18 - An endless generated carpet of image but procedural image) | Babylon.js Playground](https://playground.babylonjs.com/#XO390P#2)
 
@@ -95,3 +95,7 @@
 Но вбивание картинок в сам скелете тоже плохая идея потому что либо приходится урезать качество картинки, либо количество картинок а мне не нужно ни то, ни другое и остается несколько вариантов либо сжать картинки либо процедурно сгенерировать картинки давайте попробуем первый вариант.
 
 [Endless procedural image generation (version 23 - An endless carpet of RLE-Lents images) | Babylon.js Playground](https://playground.babylonjs.com/#7EY7K3#2)
+
+Но RLE метод хорошо работает с числа где есть одинаковые числа идущие подряд а мне нужны мощнее способы сжать данные я выбираю LZW.
+
+[Endless procedural image generation (version 24 - LZW images + Random rotate 360 degress) | Babylon.js Playground](https://playground.babylonjs.com/#P8IHLN)
