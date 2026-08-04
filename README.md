@@ -102,4 +102,4 @@
 
 Добавим биомы картинок.
 
-[Endless procedural image generation (version 25 - LZW images + Random rotate 360 degress + inages bioms) | Babylon.js Playground](https://playground.babylonjs.com/#G4J1RC)
+[Endless procedural image generation (version 25 - LZW images + Random rotate 360 degress + images bioms) | Babylon.js Playground](https://playground.babylonjs.com/#G4J1RC)
