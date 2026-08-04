@@ -99,3 +99,7 @@
 Но RLE метод хорошо работает с числа где есть одинаковые числа идущие подряд а мне нужны мощнее способы сжать данные я выбираю LZW.
 
 [Endless procedural image generation (version 24 - LZW images + Random rotate 360 degress) | Babylon.js Playground](https://playground.babylonjs.com/#P8IHLN#2)
+
+Добавим биомы картинок.
+
+[Endless procedural image generation (version 25 - LZW images + Random rotate 360 degress + inages bioms) | Babylon.js Playground](https://playground.babylonjs.com/#G4J1RC)
